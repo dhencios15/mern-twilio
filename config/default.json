@@ -1,0 +1,7 @@
+{
+  "MONGO_URI": "mongodb://localhost:27017/sms-twilio",
+  "JWT_SECRET": "dhencio-secret",
+  "TWILIO_ACCOUNT_SID": "ACe1b84616180a4a1ea7ecb13ca2350464",
+  "TWILIO_AUTH_TOKEN": "22bec7dfe3b2b45b5555337c78206cfd",
+  "PHONE_NUMBER": "+15108580910"
+}
